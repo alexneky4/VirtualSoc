@@ -1,0 +1,8 @@
+/home/alex/Desktop/VirtualSoc/cmake-build-debug/CMakeFiles/Server.dir
+/home/alex/Desktop/VirtualSoc/cmake-build-debug/CMakeFiles/Client.dir
+/home/alex/Desktop/VirtualSoc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/Desktop/VirtualSoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/Desktop/VirtualSoc/cmake-build-debug/CMakeFiles/Server_autogen_timestamp_deps.dir
+/home/alex/Desktop/VirtualSoc/cmake-build-debug/CMakeFiles/Server_autogen.dir
+/home/alex/Desktop/VirtualSoc/cmake-build-debug/CMakeFiles/Client_autogen_timestamp_deps.dir
+/home/alex/Desktop/VirtualSoc/cmake-build-debug/CMakeFiles/Client_autogen.dir
